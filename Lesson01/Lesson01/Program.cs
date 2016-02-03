@@ -31,18 +31,7 @@ namespace Lesson01
             double result = 0.0;
             switch (operatior)
             {
-                case "+":
-                    result = calc.Add(x, y);
-                    break;
-                case "-":
-                    result = calc.Sub(x, y);
-                    break;
-                case "/":
-                    result = calc.Divide(x, y);
-                    break;
-                case "*":
-                    result = calc.Mutiply(x, y);
-                    break;
+                
             }
             Console.WriteLine("The result is: "+result);
             Console.ReadLine();
