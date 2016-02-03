@@ -17,7 +17,7 @@ namespace Lesson01
             var x = 0.0;
             if (op1 != null)
             {
-                x = Double.Parse(op1);
+                x = double.Parse(op1);
             }
             Console.WriteLine("Hello please enter operator +, -, *, /:");
             var operatior = Console.ReadLine();
@@ -26,7 +26,7 @@ namespace Lesson01
             var y = 0.0;
             if (op2 != null)
             {
-                y = Double.Parse(op2);
+                y = double.Parse(op2);
             }
             double result = 0.0;
             switch (operatior)
