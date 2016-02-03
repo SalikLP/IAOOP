@@ -1,0 +1,14 @@
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\bin\Debug\CalcGUI.exe.config
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\bin\Debug\CalcGUI.exe
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\bin\Debug\CalcGUI.pdb
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\CalcGUI.csprojResolveAssemblyReference.cache
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\MainWindow.g.cs
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\App.g.cs
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\CalcGUI_MarkupCompile.cache
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\CalcGUI_MarkupCompile.lref
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\MainWindow.baml
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\CalcGUI.g.resources
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\CalcGUI.Properties.Resources.resources
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\CalcGUI.csproj.GenerateResource.Cache
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\CalcGUI.exe
+C:\Users\salik\Documents\IAOOP\Lesson01\CalcGUI\obj\Debug\CalcGUI.pdb
